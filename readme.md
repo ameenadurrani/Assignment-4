@@ -101,3 +101,6 @@ if is_prime:
 else:
     print(f"Wow, {totalSum} is not a prime number!")
 ```
+
+# Output 
+![Output](https://github.com/user-attachments/assets/a43bacc2-15a7-4be2-b74d-8d01b9274565)
